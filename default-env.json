@@ -6,7 +6,7 @@
     },
     {
       "name": "env_invoice_prodsrv",
-      "url": "https://invoice-api-iahq.onrender.com/"
+      "url": "https://invoice-api-iahq.onrender.com"
     }
   ]
 }
